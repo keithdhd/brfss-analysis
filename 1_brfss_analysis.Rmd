@@ -30,6 +30,7 @@ After launching RStudio, enter the following command.
 
 ```{r load-data}
 source("http://www.openintro.org/stat/data/cdc.R")
+library(tidyverse)
 ```
 
 The data set cdc that shows up in your workspace (the Environment tab on the top right) is a data matrix, with each row representing a case (one respondent) and each column representing a variable. R calls this data format a data frame, which is a term that will be used throughout the labs.
