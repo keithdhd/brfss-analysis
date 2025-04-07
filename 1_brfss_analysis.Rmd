@@ -40,7 +40,7 @@ The data set cdc that shows up in your workspace (the Environment tab on the top
 How many cases are there in this data set? How many variables? For each variable, identify its data type (e.g. categorical, discrete).
 
 ```{r exercise01}
-
+# add a comment to see if this works
 ```
 
 ## Exercise 2
